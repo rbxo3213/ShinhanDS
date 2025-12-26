@@ -1,3 +1,5 @@
+sql 레스토랑 분석 문제
+
 select * from reservation;
 select * from order_info;
 select * from item;
